@@ -1,0 +1,43 @@
+#about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+#sub-about button {
+    padding: 10px 20px;
+    background-color: brown;
+    border-radius: 20px;
+}
+
+#experiences {
+    background-color: brown;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+}
+
+#experiences div img {
+    background-size: contain;
+    margin: 0 auto;
+}
+
+#education {
+    padding: 50px;
+    background-color: black;
+    color: white;
+}
+
+#skills {
+    background-color: brown;
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#skills div img {
+    background-size: cover;
+    margin: 0 auto;
+}
